@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there ,Get to know me quickly!😎  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=CheeseburgerIM&count_private=true&show_icons=true&theme=gotham&show_owner=true" style="width:50% !important" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=CheeseburgerIM&count_private=true&show_icons=true&theme=gotham&show_owner=true" style="width:50% !important min-height:165px !important" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&theme=gotham&layout=compact" />
