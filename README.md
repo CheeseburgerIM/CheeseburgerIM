@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**CheeseburgerIM/CheeseburgerIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**CheeseburgerIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### Hi there ,Get to know me quickly!😎  
+
+## Hi there ,Get to know me quickly!😎  
+
+### Life will always find its way. 2019 TJU
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=CheeseburgerIM&count_private=true&show_icons=true&theme=gotham&show_owner=true" style="width:50% !important " />
