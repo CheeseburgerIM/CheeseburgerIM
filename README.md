@@ -1,8 +1,6 @@
-# CheeseburgerIM
+# <a href="https://CheeseburgerIM.space" target="_target">CheeseburgerIM</a>
 
 ## Life will always find its way.
-
-<a href="https://CheeseburgerIM.space" target="_blank"><img src="./Avatar.png" alt="Iron Man" style="zoom:7%;" /></a>
 
 - 2019级天津大学本科生 - 智能与计算学部 - 软件工程专业🐍
 
